@@ -1,4 +1,4 @@
-# Hello World!, I'm Atul, a Multidisciplinary Web Developer 👋🏼::
+# Hello World!, I'm Atul, a Multidisciplinary Web Developer 👋🏼 :
 ⭐ Transforming code into captivating user journeys.  <br><br>💻 Crafting responsive, pixel-perfect interfaces with React and Next.js is my daily bread and butter.  <br><br>🎨 I speak fluent JavaScript, TypeScript, and CSS, creating visually stunning designs with TailwindCSS.  <br><br>🚀 Driven by clean code, optimized performance, and smooth user interactions—the trifecta of great frontend!  <br><br>🌐 Building digital worlds, one component at a time. <br><br>📬 Always open to collaborations and connections!<br>
 
 
